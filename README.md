@@ -7,7 +7,7 @@ Web-FrontEnd Developer • Python Programmer• FastAPI Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Developer;Machine+Learning+Engineer;FastAPI+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;WebFrontEnd;FastAPI+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 ---
